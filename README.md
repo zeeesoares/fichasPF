@@ -1,3 +1,3 @@
 # fichasPF
 
-- Apontamentos/Resolução exercícios Programação Funcional em Haskell. :saluting_face: 
+- Apontamentos/Resolução exercícios Programação Funcional em Haskell. sleepy
