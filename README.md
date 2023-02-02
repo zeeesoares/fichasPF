@@ -1,3 +1,3 @@
 # fichasPF
 
-- Apontamentos/Resolução exercícios Programação Funcional em Haskell. sleepy
+- Apontamentos/Resolução exercícios Programação Funcional em Haskell. :wave:
